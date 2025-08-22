@@ -13,18 +13,10 @@ void display(vector<int> &a){
 }
 int main(){
     vector<int> a;
-    int element;
-    for (int i = 0; i < 4; i++)
-    {
-        cout<<"Enter the element into the vector: ";
-        cin>>element;
-        a.push_back(element);
-    }
-    display(a);
-    vector<int>::iterator iter = a.begin();
-    a.insert(iter,5,588);
-    display(a);
+    int element=00;
+   
+    int element=00;
     
 }
 
-//version 1
+//version 2
