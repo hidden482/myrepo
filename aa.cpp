@@ -12,10 +12,7 @@ void display(vector<int> &a){
     
 }
 int main(){
-    vector<int> a;
-    int element=00;
-   
-    int element=00;
+    int a;
     
 }
 
